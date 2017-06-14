@@ -11,6 +11,11 @@ const appRouts: Routes=[
         component: HomeComponent 
     }
     ,
+  {
+        path:'/',
+        component: HomeComponent 
+    }
+    ,
      {
         path:'home',
         component: HomeComponent
